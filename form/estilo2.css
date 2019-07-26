@@ -1,0 +1,18 @@
+
+.form {
+    overflow: hidden;
+    display: flex;
+}
+.form-column{
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    box-sizing: border-box flex;
+    width: 503px;
+    height: 580px;
+    border-radius: 6px;
+    align-content: center;
+    resize: vertical;
+    display: contents;
+    flex-direction: column;
+}
+

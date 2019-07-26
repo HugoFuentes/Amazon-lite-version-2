@@ -1,0 +1,26 @@
+
+.top {
+    background-color: #232F3D;
+    background-position: flex;
+    overflow: hidden;
+    
+}
+
+.NavbarNav {
+    background-color: #232F3D;
+    background-position: flex;
+    overflow: hidden;
+
+}
+.form-column{
+    background: #FFFFFF;
+    border: 1px solid #DADADA;
+    box-sizing: border-box flex;
+    width: 250px;
+    height: 630px;
+    border-radius: 4px;
+    align-content: center;
+    resize: vertical;
+    display: contents;
+    flex-direction: column;
+}
